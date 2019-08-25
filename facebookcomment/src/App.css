@@ -1,0 +1,22 @@
+
+#cont1
+{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  border:2px solid black;
+  width:600px;
+  grid-gap: 30px;
+  margin:20px;
+  border-radius: 10px;
+
+}
+
+#pic1{
+  width: 100px;
+  height: 150px;
+  padding: 20px;
+}
+
+#p1{
+  color: blue;
+}
